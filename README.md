@@ -1,6 +1,6 @@
 # Live Site
 
-live site url: https://661185dddfac420ce5cf4ebf--jovial-gnome-17f0c2.netlify.app/
+live site url: https://aeonaxy-pi.vercel.app/
 
 # Getting Started with Create React App
 
